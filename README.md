@@ -2,11 +2,9 @@
 
 ---
 Fivem Admin Meüu. 
-Config.lua dosyasında düzenlemelerini yapın. 
 Sonrasında /Resources klasörü altında [qb] dosyasına atınız.
 ---
 Fivem Admin Menu.
-Make your edits in the Config.lua file.
 Then put it in the [qb] file under the /Resources folder.
 ---
 
